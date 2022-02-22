@@ -1,4 +1,4 @@
-package pro9;
+package soy hector;
 
 public class Main2 {
 	
