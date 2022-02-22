@@ -1,4 +1,6 @@
-package pro9;
+
+
+package Hector;
 
 public class Edad {
 	private int edad;
