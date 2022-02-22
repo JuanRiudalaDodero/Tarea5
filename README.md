@@ -7,8 +7,6 @@ Practica 5 entornos
 
 #Joan:
 
-
-
-
-
 #Hector:
+
+
