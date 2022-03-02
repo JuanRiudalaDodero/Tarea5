@@ -35,8 +35,16 @@
 
 #JOAN
 
- - 
+ - En el capitulo1.html he añadido un titulo
+ - En el capitulo3.html he añadido contenido dentro de las etiquetas A
+ - En el prueba.html he dejado un comentario
+ - En el Main2.java he cambiado la longitud del Array de 20 a 10
+ - En manzana.html he dejado un Hola soy Joan
 
 #HECTOR
 
- - 
+ - En el 29JoanRiudala.sql he cambiado "hom-ubicacion" y "muj-ubicacion" por "hom-direccion" y "muj-direccion"
+ - En el 27JoanRiudala.sql he cambiado las cantidades de los varchar.
+ - En EdadFueraDeRangoException.java he sustituido el "String mensage" por "String msg"
+ - En el Edad.java he cambiado los comentarios de dentro el throw new
+ - En llegada.html he escrito el comentario Soy yo mismo jaja
