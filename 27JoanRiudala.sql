@@ -1,8 +1,6 @@
-Hola soy Hector
-
 drop database tienda_libros_v1;
 
-create database entornos;
+create database tienda_libros_v1;
 
 use tienda_libros_v1;
 

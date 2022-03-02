@@ -1,6 +1,4 @@
-Hola soy Hector
-
-drop database entornos;
+drop database concesionario;
 
 create database concesionario;
 
